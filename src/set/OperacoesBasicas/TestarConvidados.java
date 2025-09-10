@@ -10,6 +10,7 @@ public class TestarConvidados {
         conjuntoConvidados.adicionarConvidado("Renato", 9);
         conjuntoConvidados.adicionarConvidado("Marcos", 12);
         conjuntoConvidados.adicionarConvidado("Lucas", 16);
+        conjuntoConvidados.adicionarConvidado("Renam", 9);
 
         System.out.println("\nConjunto de Convidados: " + conjuntoConvidados.exibirConvidados());
         
