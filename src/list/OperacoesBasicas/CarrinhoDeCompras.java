@@ -27,7 +27,7 @@ public class CarrinhoDeCompras {
     }
     
     public void removerItem(String nome) {
-        /*Como a lista pode ter itens repetidos, é necessário
+        /*Como a lista pode vir a ter itens repetidos, é necessário
         criar uma nova lista que receba os itens repetidos e
         então remova todos baseado nessa nova lista.
         */
